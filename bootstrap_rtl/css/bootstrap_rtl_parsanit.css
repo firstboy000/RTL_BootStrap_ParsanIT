@@ -116,7 +116,6 @@ th {
 	text-align: right;
 }
 
-/* additional codes */
 .col-xs-pull-right-12 {
   left: 100%;
 }
@@ -592,7 +591,6 @@ th {
   }
 }
 
-/* additional */
 .checkbox input[type=checkbox], .checkbox-inline input[type=checkbox], .radio input[type=radio], .radio-inline input[type=radio] {
 	position: absolute;
 	margin-right: -20px;
